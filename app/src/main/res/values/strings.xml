@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta</string>
+    <string name="nombre">Marcos Martínez</string>
+    <string name="puesto">Android Developer Extraordinaire</string>
+    <string name="telefono">633653785</string>
+    <string name="email">marcosmd1014@gmail.com</string>
+    <string name="compartir">marcos@android.com</string>
+</resources>
